@@ -1,0 +1,22 @@
+header {
+    background-image: url('../img/atardecer.jpg');
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+ footer{
+    padding-top: 100px;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    background-color: blanchedalmond;
+    color: blueviolet;
+    padding-top: center;
+
+}
+        
+div.header{padding-top: 60px;}
+
